@@ -4,6 +4,18 @@ A new Flutter project.
 
 ## Getting Started
 
+
+# Screenshot 1
+<img src="https://github.com/Mirzaazmath/flutter_animated_radial_sweep_gradient/blob/main/assets/Screenshot1.png" height="400">
+
+# Screenshot 2
+<img src="https://github.com/Mirzaazmath/flutter_animated_radial_sweep_gradient/blob/main/assets/Screenshot2.png" height="400">
+
+
+# Result
+<img src="https://github.com/Mirzaazmath/flutter_animated_radial_sweep_gradient/blob/main/assets/result.gif" height="400">
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
